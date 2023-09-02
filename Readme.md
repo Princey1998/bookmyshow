@@ -7,7 +7,7 @@ Code for back-end server is given in server folder.
 
 This Project is live:
     server : "https://book-my-show.onrender.com"
-    client : "https://bookmyshow-1acd3.web.app"
+    client : "https://sensational-sprinkles-319e32.netlify.app/"
 
 To run this project in local machine.
 
