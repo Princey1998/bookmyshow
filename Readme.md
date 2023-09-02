@@ -7,9 +7,9 @@ Code for back-end server is given in server folder.
 
 This Project is live:
     client : "https://sensational-sprinkles-319e32.netlify.app/" 
+    
     server : "https://bookmyshow-api-y76w.onrender.com"
     
-
 To run this project in local machine.
 
 1. Clone the repository, and run `npm install` for both client and server seperately, OR run `npm run download`
