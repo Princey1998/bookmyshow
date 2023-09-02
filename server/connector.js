@@ -1,6 +1,6 @@
 const mongodb = require('mongodb');
 
-const mongoURI = "mongodb://localhost:27017/" + "bookMovie"
+const mongoURI = "mongodb+srv://princeyadv1:GTYBQrU884Dxv7h7@cluster0.lhupsjn.mongodb.net/?retryWrites=true&w=majority"
 
 let mongoose = require('mongoose');
 //  Importing Mongoose Schema from schema.js
